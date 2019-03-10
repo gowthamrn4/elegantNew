@@ -1,0 +1,15 @@
+/* .container{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+} */
+.footerContainer{
+    padding: 40px 0;
+}
+ul{
+    list-style-type:none;
+
+}
+a{
+   color: #696969
+}
+agm-map { height: 300px; /* height is required */ }
